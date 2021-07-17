@@ -19,11 +19,11 @@ jobs:
         git config --local user.email 2560814258@qq.com
         git config --local user.name william-song-shy
         git commit -m "backup"
-    -name: Push changes
-     uses: ad-m/github-push-action@master
-     with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      directory: './backup'
+    - name: Push changes
+    - uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        directory: './backup'
       
       
       
