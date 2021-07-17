@@ -1,6 +1,6 @@
 import requests
 import datetime
-a=datetime.datetime.now()
+a=datetime.datetime.utcnow()+datetime.timedelta(hours=8)
 l=requests.get("http://bens.rotriw.com/ranklist?_contentOnly=1").json()
 #print ('./'+a.strftime('%Y-%m-%d %H-%M')+'.txt')
 fo=open('./backup/'+a.strftime('%Y-%m-%d %H-%M')+'.txt','w',encoding="UTF-8")
