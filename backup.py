@@ -9,4 +9,6 @@ if not os.path.exists("./backup/"+a.strftime('%Y-%m-%d')+'/'):
 fo=open('./backup/'+a.strftime('%Y-%m-%d')+'/'+a.strftime('%Y-%m-%d %H-%M')+'.txt','w',encoding="UTF-8")
 for i in l:
     fo.write (str(i[0])+' '+str(i[1])+' '+str(i[2])+'\n')
+l=requests.get("https://bens.rotriw.com/api/backup/extend").json()
+fo.write("\n\n\n\n\n\n====================\nTotal benbens:{}\nTotal users:{}".format(l['num_benben'],l['num_user']))
 fo.close()
