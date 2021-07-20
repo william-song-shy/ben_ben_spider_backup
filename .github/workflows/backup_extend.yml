@@ -18,8 +18,8 @@ jobs:
         run: python backup_extend.py 
       - name: save file
         run: |
-          git config --local user.email 2560814258@qq.com
-          git config --local user.name william-song-shy
+          git config --local user.email shysonghongyi@qq.com
+          git config --local user.name ben-ben-spider-backup
           git add .
           git commit -m "backup"
       - name: Push changes
