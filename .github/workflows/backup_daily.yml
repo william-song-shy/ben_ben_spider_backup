@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron : '30 3 * * *'
+  - cron : '30 19 * * *'
   workflow_dispatch:
 jobs:
   backup:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       - name: run backup
         run: python backup_daily.py 
-        with:
+        env:
           password: ${{ secrets.BACKUP_PASSWORD }}
       - name: save file
         run: |
