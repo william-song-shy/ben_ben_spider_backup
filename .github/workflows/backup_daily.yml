@@ -1,0 +1,30 @@
+on:
+  schedule:
+  - cron : '30 3 * * *'
+  workflow_dispatch:
+jobs:
+  backup:
+    runs-on : ubuntu-latest
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with: 
+          python-version:  '3.7' 
+      - name: install requests
+        run: pip install requests
+      - name: get file
+        uses: actions/checkout@v2
+      - name: run backup
+        run: python backup_daily.py 
+        with:
+          password: ${{ secrets.BACKUP_PASSWORD }}
+      - name: save file
+        run: |
+          git config --local user.email shysonghongyi@qq.com
+          git config --local user.name ben-ben-spider-backup
+          git add .
+          git commit -m "backup"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
