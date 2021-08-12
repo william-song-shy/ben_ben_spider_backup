@@ -1,0 +1,59 @@
+18 _JY_ 400269
+11 聂无忧 343002
+9 int64 360331
+8 tgyyds 517126
+8 万物皆可AC 376161
+8 Petarl 308133
+7 SpeMars 374929
+7 jiayouba233 334146
+7 二流公民 217065
+6 159号程序员 334586
+6 信守天下 392856
+6 Andysun06 70299
+6 老子是北瓜 121813
+5 zpw_bth 473531
+5 lovely_ckj 251130
+5 qsceszthn 221729
+5 Lyz09 284013
+4 Lethifold 250145
+4 2009ZJY 303025
+4 qwq自动机 134519
+3 jr_inf 290055
+3 includeCPP 228458
+3 镜音连 217747
+3 Blueqwq 375994
+3 Horsen 398886
+3 NOIP爆零 303476
+3 Liu_Kevin 140360
+3 OIerC2020cmh 307603
+3 hjxhjx 178480
+3 Epsilon_Cube 372983
+3 跳跳谷hj 308583
+2 一E孤行 229919
+2 Rsg26 487027
+2 Aw顿顿 212283
+2 CodePenguin 341362
+2 19ty84 289871
+2 风聆清歌 446297
+2 别无锁求 547497
+2 Ew_Cors 180103
+2 happyChristmas 121027
+2 SodiumChloride 333529
+2 Velix 239358
+2 天才颓废学家 199220
+2 小柠是个蒟蒻 313736
+2 High_Score 133509
+2 玩玩就好7744 55680
+2 gfxc的小舔狗 553414
+2 小糯米 152341
+2 Dawn_Sdy 125443
+1 yaoxiangyuan 255996
+
+
+
+
+
+
+====================
+Total benbens:285
+Total users:126
