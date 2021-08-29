@@ -1,0 +1,29 @@
+70 _tgyyds_ 542471
+37 lxwh 462792
+26 dpkajj 515930
+24 int64 360331
+24 int16 550935
+22 int32 142548
+19 Liu_Kevin 140360
+18 ling_yun 491598
+17 超级玛丽王子 372299
+16 一E孤行 229919
+16 ⚡turing_zsw⚡ 364135
+15 LEMON_ni 399150
+14 vicome_lone 373293
+14 happyChristmas 121027
+12 abuyao 285373
+12 任宇宸 250291
+12 Stjp20080714 403727
+11 Apple_Pie 225621
+9 Alexia_Cosecant 282624
+9 皮皮可 475269
+
+
+
+
+
+
+====================
+Total benbens:1160
+Total users:361
