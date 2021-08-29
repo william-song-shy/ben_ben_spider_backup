@@ -1,0 +1,29 @@
+5 pigstd 141179
+4 心余无痕 305002
+3 AFewMoon 206911
+3 abuyao 285373
+2 brakzero 207701
+2 jiayouba233 334146
+2 Sharing666 394991
+2 aleph_blanc 101620
+2 Never_a_whker 432043
+2 explpl2007 478528
+2 int64 360331
+2 a_l_g_d 491132
+2 卢仕煜 384736
+2 tiger2008 295052
+2 yukimainyan 172778
+2 你猜猜我叫啥 518151
+1 wangyibo201026 363006
+1 NOIP爆零 303476
+1 Suzt_ilymtics 230580
+1 _Arahc_ 181776
+
+
+
+
+
+
+====================
+Total benbens:87
+Total users:64
