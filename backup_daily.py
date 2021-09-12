@@ -4,7 +4,7 @@ import datetime
 a=datetime.datetime.utcnow()+datetime.timedelta(hours=8)
 headers={"password":os.getenv("password")}
 try:
-    l=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers).json()
+    l=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers,timeout=300).json()
 except requests.exceptions.RequestException as e:
     l=e
 #print ('./'+a.strftime('%Y-%m-%d %H-%M')+'.txt')
