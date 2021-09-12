@@ -3,10 +3,11 @@ import os
 import datetime
 a=datetime.datetime.utcnow()+datetime.timedelta(hours=8)
 headers={"password":os.getenv("password")}
+r=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers,timeout=300)
 try:
-    l=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers,timeout=300).json()
+    l=r.json()
 except BaseException as e:
-    pass
+    l=r.text+"\n\n"+e
 #print ('./'+a.strftime('%Y-%m-%d %H-%M')+'.txt')
 if not os.path.exists("./backup_daily/"):
     os.mkdir("./backup_daily/")
