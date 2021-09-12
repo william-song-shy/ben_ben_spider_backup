@@ -7,7 +7,7 @@ r=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}
 try:
     l=r.json()
 except BaseException as e:
-    l=r.text+"\n\n"+e
+    l=r.text
 #print ('./'+a.strftime('%Y-%m-%d %H-%M')+'.txt')
 if not os.path.exists("./backup_daily/"):
     os.mkdir("./backup_daily/")
