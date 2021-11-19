@@ -1,0 +1,29 @@
+6 God_Dream 559502
+5 run_after_dream 363069
+4 Alex_Wei 123294
+4 High_Score 133509
+4 int128 361833
+4 心余无痕 305002
+4 aleph_blanc 101620
+3 MalikShah 111172
+3 唐一文 150843
+3 RainFestival 36957
+3 _JY_ 400269
+3 ImopsterAnYu 510555
+3 王熙文 353688
+2 slcs 550268
+2 SpadeA261 124218
+2 Ptilopsis_w 239167
+2 longer_name 95103
+2 NaOHNaOHNaOH 305855
+2 Ztemily 352961
+2 lei_yu 224927
+
+
+
+
+
+
+====================
+Total benbens:211
+Total users:159
