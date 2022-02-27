@@ -2,7 +2,7 @@ import requests
 import os
 import datetime
 a=datetime.datetime.utcnow()+datetime.timedelta(hours=8)
-l=requests.get("http://123.176.98.118:5000/api/backup/extend").json()
+l=requests.get("https://bens.rotriw.com/api/backup/extend").json()
 #print ('./'+a.strftime('%Y-%m-%d %H-%M')+'.txt')
 if not os.path.exists("./backup_extend/"+a.strftime('%Y-%m-%d')+'/'):
     os.mkdir("./backup_extend/"+a.strftime('%Y-%m-%d')+'/')
