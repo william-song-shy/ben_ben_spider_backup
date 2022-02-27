@@ -3,7 +3,7 @@ import os
 import datetime
 a=datetime.datetime.utcnow()+datetime.timedelta(hours=8)
 headers={"password":os.getenv("password")}
-r=requests.get("https://bens.rotriw.com/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers,timeout=300)
+r=requests.get("http://123.176.98.118:5000/api/backup/daily?year={}&month={}&day={}".format(a.year,a.month,a.day),headers=headers,timeout=300)
 try:
     l=r.json()
 except BaseException as e:
