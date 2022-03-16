@@ -1,0 +1,59 @@
+40 lgvc 366807
+22 俞开 295367
+20 andysj 34514
+16 Cstring_ 212320
+14 明日之後 550045
+13 gaoweisong123 673978
+12 chenyuxuan__2009 516346
+12 fjy666 366338
+11 Liu_Kevin 140360
+11 幸存者 549357
+10 量子少女希儿 496610
+9 _BitSeT_ 62549
+9 chenyuer 647355
+9 XeniaF 104163
+9 王熙文 353688
+9 _JY_ 400269
+9 Diwanul 190926
+8 BMTXLRC 380579
+8 Kobe303 292300
+8 Jason12 169606
+8 zhiyangfan 137603
+7 H2OCaO 264490
+7 任宇宸 250291
+7 WYXkk 130151
+7 Shu__ 681909
+7 EvaSun 550545
+6 Const_int_MAXN 674633
+6 Hi_Kou 373293
+6 juruolht 308386
+6 冰糖鸽子 227728
+6 High_Score 133509
+6 basachenboming 400205
+6 YZHX 42082
+6 Golden_Breath 204722
+6 int256 344700
+5 昒昕 84132
+5 ___balalida___ 237541
+5 H2OCLNA 575453
+5 Spasmodic 121027
+5 wrpwrp 139012
+5 dead_X 111055
+5 小糯米 152341
+5 听取MLE声一片 253738
+5 CarroT1212 319803
+4 PrincessQi 104662
+4 Breakingtdasc 483824
+4 Prean 160839
+4 LHQing 167507
+4 _I°Fear 326452
+4 _Haoomff_ 368111
+
+
+
+
+
+
+====================
+Total benbens:818
+Total users:309
