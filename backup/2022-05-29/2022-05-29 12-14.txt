@@ -1,0 +1,29 @@
+45 Const_int_MAXN 674633
+44 juruolht 308386
+24 Dream_weavers 572482
+24 Hughzhuxiuqi 646208
+21 _Haoomff_ 368111
+19 charleshe 477258
+16 Strawberry_Milkshake 722747
+13 LQF0523 588533
+12 ternary_tree 362750
+12 yuchenren 250291
+11 bye_wjx 575994
+11 _chen666 398860
+10 Deamer 585962
+9 LYqwq 399116
+8 Apathy_Cui 675646
+8 ZZP_AK_IOI 312795
+7 worldvanquisher 663705
+7 明日之後 550045
+7 Spasmodic 121027
+7 frank804 566278
+
+
+
+
+
+
+====================
+Total benbens:770
+Total users:268
