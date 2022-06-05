@@ -1,0 +1,14 @@
+2 YGB_XU 164580
+2 Emeth 680606
+2 天南星魔芋 399239
+1 AC机 96340
+1 Binary_Search_Tree 40985
+
+
+
+
+
+
+====================
+Total benbens:8
+Total users:5
