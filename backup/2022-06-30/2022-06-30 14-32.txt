@@ -1,0 +1,29 @@
+70 LONGYH 600442
+45 Hedgehog_210508 345657
+37 Huihui190629 694536
+36 hahazhou 331216
+33 Hughpig 646208
+29 _6956_ 722747
+23 juruolht 308386
+20 coder_1746 682471
+19 baigeiking 462629
+18 mxtx 396736
+16 Static_int 731608
+15 _w_h_y_ 737613
+11 CarroT1212 319803
+11 ZZP_AK_IOI 312795
+11 天南星魔芋 399239
+9 Eason2009 286448
+9 W_eastern 561697
+9 lgvc 366807
+8 for_i_in_range 531850
+7 ternary_tree 362750
+
+
+
+
+
+
+====================
+Total benbens:858
+Total users:268
