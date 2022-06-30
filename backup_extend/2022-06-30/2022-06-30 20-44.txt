@@ -1,0 +1,59 @@
+75 LONGYH 600442
+74 W_eastern 561697
+68 chenyuer 647355
+63 Huihui190629 694536
+61 Hughpig 646208
+47 Hedgehog_210508 345657
+43 juruolht 308386
+43 _____yyrdxh_____ 583681
+39 hahazhou 331216
+34 _6956_ 722747
+34 DarkforestII 682514
+26 baigeiking 462629
+21 Eason2009 286448
+21 天南星魔芋 399239
+20 coder_1746 682471
+19 Static_int 731608
+18 CarroT1212 319803
+18 skzqyyds 647083
+18 mxtx 396736
+16 Const_int_MAXN 674633
+15 lgvc 366807
+15 _w_h_y_ 737613
+14 zhouyexuan 661595
+12 charleshe 477258
+12 SJQ_LOSER 305895
+12 for_i_in_range 531850
+11 ZZP_AK_IOI 312795
+11 Dream_weavers 572482
+11 Xaga 447322
+11 lanretE 398190
+10 flame_soul 141508
+10 houzhiyuan 98490
+9 Remake 161687
+9 jimmyfj 462047
+9 osfly 339299
+9 chaichunyang 170603
+9 _maojun_ 350297
+9 High_Score 133509
+9 ternary_tree 362750
+8 yujiachenan 293220
+8 Suruka 321566
+8 Withers 481851
+8 佘欣颐 489890
+7 _Toorean_ 188850
+7 qfcxxcfr 720108
+7 qzcbw 164696
+7 linzhicong2011 661534
+7 jijidawang 227514
+7 明年明月 304829
+7 qzhwmjb 260092
+
+
+
+
+
+
+====================
+Total benbens:1835
+Total users:467
