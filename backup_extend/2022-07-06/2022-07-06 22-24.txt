@@ -1,0 +1,59 @@
+60 chenyuer 647355
+57 fuxiao 486448
+56 DarkforestII 682514
+51 zyhqfc 725293
+49 Hughpig 646208
+49 qfcxxcfr 720108
+47 _JY_ 400269
+45 for_i_in_range 531850
+45 charleshe 477258
+41 强人锁男 511253
+39 juruolht 308386
+38 Catcats 658875
+34 hahazhou 331216
+34 CaCa_Condy 320423
+33 bye_wjx 575994
+33 ternary_tree 362750
+31 _6956_ 722747
+31 Huihui190629 694536
+29 Creeper_luogu 710032
+28 天南星魔芋 399239
+25 lgvc 366807
+23 krjt 691537
+20 DSAT8125 390228
+20 run_after_dream 363069
+18 Raymondzll 225192
+17 Na2CO3_qwq 576529
+16 Const_int_MAXN 674633
+16 Vidoliga 436389
+16 ldh081122 448593
+16 Hedgehog_210508 345657
+15 快乐的大童 448884
+14 Dream_weavers 572482
+14 iyag 593299
+14 _7863_ 733489
+14 yuzhihang016 676638
+13 Xaga 447322
+13 lanretE 398190
+13 Eason2009 286448
+13 _w_h_y_ 737613
+13 snail2956 579234
+13 Aya_tt 744562
+13 鲶鱼的忠实粉 369836
+13 o_scary_ang 370216
+12 _3824_ 319306
+12 奥利给奥利给 373504
+12 Apathy_Cui 675646
+12 cfkk 360273
+11 LHC427 528867
+11 c_y_z 559980
+11 ZZP_AK_IOI 312795
+
+
+
+
+
+
+====================
+Total benbens:2649
+Total users:639
