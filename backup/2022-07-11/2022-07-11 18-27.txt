@@ -1,0 +1,29 @@
+69 for_i_in_range 531850
+65 DarkforestII 682514
+59 bye_wjx 575994
+53 chenyuer 647355
+35 鲶鱼的忠实粉 369836
+30 强人锁男 511253
+30 LHC427 528867
+28 Apathy_Cui 675646
+28 奥利给奥利给 373504
+27 juruolht 308386
+25 Cppsteve 479296
+25 d0j1a_1701 248302
+24 S__B 661595
+24 hahazhou 331216
+23 Drind 305854
+23 ternary_tree 362750
+21 Hughpig 646208
+20 expnoi 378346
+19 wangsiqi080420 305863
+19 wang1234567 305900
+
+
+
+
+
+
+====================
+Total benbens:2506
+Total users:707
